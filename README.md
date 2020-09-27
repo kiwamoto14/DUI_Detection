@@ -1,5 +1,5 @@
 # DUI_Detection
-Real-time DUI Detection program through camera using facial landmark feature from OpenCV Library. Computers eye aspect ratio to detect potential DUI.
+Real-time DUI Detection program through camera using facial landmark feature from OpenCV Library. Utilizes eye aspect ratio to detect potential DUI.
 
 # Usage
 Download OpenCV and OpenCV_contrib from OpenCV's Github and extract onto a directory in any chosen directory (NOT program files)\
