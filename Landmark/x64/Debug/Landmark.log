@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\Quarantine\Landmark\Landmark\main.cpp(140,49): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Quarantine\Landmark\Landmark\main.cpp(140,33): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Landmark.vcxproj -> D:\Quarantine\Landmark\x64\Debug\Landmark.exe
